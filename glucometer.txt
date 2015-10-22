@@ -1,0 +1,5 @@
+
+- Temporal_relationship_to_meal
+	Values:
+		"before meal"
+		"after meal"
