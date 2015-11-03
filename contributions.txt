@@ -1,0 +1,2 @@
+- Ilias Maglogiannis:  In glucosemeter.json has proposed to include 
+					       temporal_relationship_to_meal 
