@@ -1,16 +1,21 @@
 {
-	"patientId": 1004,
-	"payload": 
-	{
-		"heart_rate": 
-		{
-			"value": 50,
-			"unit": "beats/min"
+	"channels": {
+		"type": {
+			"current-value": "measurement"
 		},
-
-		"effective_time_frame": 
-		{
-			"date_time": "2013-02-05T07:25:00Z"
+		"timestamp": {
+			"current-value": 1454322213
+		},
+		"user_id": {
+			"current-value": "Mario Rossi"
+		},
+		"device_id": {
+			"current-value": "1447665358941c5d2a77cc93a425a978636231aed6061"
+		},
+		"payload": {
+			"current-value": "{\"heart_rate\": 	{\"value\": 50,\"unit\": \"beats/min\"},\"effective_time_frame\": {\"date_time\": \"2013-02-05T07:25:00Z\"}}"
 		}
-	}
+	},
+	"lastUpdate": 227443,
+	"security": {}
 }

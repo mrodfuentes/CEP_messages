@@ -1,10 +1,21 @@
 {
-	"blood_glucose": {
-		"unit": "mg/dL",
-		"value": 290
+	"channels": {
+		"type": {
+			"current-value": "measurement"
+		},
+		"timestamp": {
+			"current-value": 1454322213
+		},
+		"user_id": {
+			"current-value": "Mario Rossi"
+		},
+		"device_id": {
+			"current-value": "1447665358941c5d2a77cc93a425a978636231aed6061"
+		},
+		"payload": {
+			"current-value": "{\"blood_glucose\":{\"unit\":\"mg/dL\",\"value\":290},\"effective_time_frame\":{\"date_time\":\"2016-02-01T10:23:33Z\"},\"temporal_relationship_to_meal\":\"before meal\"}"
+		}
 	},
-	"effective_time_frame": {
-		"date_time": "2016-02-01T10:23:33Z"
-	},
-	"temporal_relationship_to_meal": "before meal"
+	"lastUpdate": 227443,
+	"security": {}
 }
