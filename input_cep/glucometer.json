@@ -1,13 +1,10 @@
 {
-	"patientId":John Smith,
-	"payload":{
-	    "blood_glucose": {
-	        "unit": "mg/dL",
-	        "value": 95
-	    },
-	    "effective_time_frame": {
-	        "date_time": "2013-02-05T07:25:00Z"
-	    },
-		"temporal_relationship_to_meal": "before meal"
-	}
+	"blood_glucose": {
+		"unit": "mg/dL",
+		"value": 290
+	},
+	"effective_time_frame": {
+		"date_time": "2016-02-01T10:23:33Z"
+	},
+	"temporal_relationship_to_meal": "before meal"
 }
